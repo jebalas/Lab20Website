@@ -1,0 +1,48 @@
+h2 {
+    font-size: 20px;
+    color: rgb(45, 40, 40);
+    font-weight: bold;
+}
+
+h1{
+    font-size: 20px;
+    color: rgb(45, 40, 40);
+    font-weight: bolder;
+}
+
+body{
+    background-color: rgb(233, 227, 220);
+}
+
+ul{
+    font-size: 20px;
+    color: rgb(45, 40, 40);
+}
+
+ol{
+    font-size: 20px;
+    color: rgb(45, 40, 40);
+}
+
+footer p{
+    border-color: rgb(45, 40, 40);
+    border-width: 5px;
+    border-style: double;
+    text-align: center;
+}
+
+.buckeye-text{
+    color: red;
+    background-color: gray;
+    font-size: 30px;
+}
+
+.boiler-text{
+    color: gold;
+    background-color: black;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
